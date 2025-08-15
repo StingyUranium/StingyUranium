@@ -1,16 +1,18 @@
-## Hi there 👋
+# Thomas Johnson
 
-<!--
-**StingyUranium/StingyUranium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Thomas Johnson**—a final-year BTech student specializing in **Artificial Intelligence & Data Science** at Rajagiri School of Engineering and Technology. With a strong foundation in AI, machine learning, and data analytics, I build smart solutions to solve real-world challenges.
 
-Here are some ideas to get you started:
+## Interests & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artificial Intelligence & Machine Learning  
+- Data Science & Big Data Analytics  
+- Python, SQL, and modern data tools  
+- Automation, intelligent agents, and research-driven development  
+
+## Projects
+
+I have contributed to academic and personal projects in learner-focused AI, automation frameworks, and data-driven decision-making. I am passionate about open-source collaboration and sharing knowledge with fellow tech enthusiasts.
+
+---
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-johnson-c-72837a24b/) to learn more or collaborate on transformative AI projects.
