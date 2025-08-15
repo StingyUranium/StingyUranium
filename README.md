@@ -15,4 +15,4 @@ I have contributed to academic and personal projects in learner-focused AI, auto
 
 ---
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-johnson-c-72837a24b/) to learn more or collaborate on transformative AI projects.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-johnson-c-72837a24b/) or visit my [website](https://stingyuranium.github.io/Portfolio-personal/) to learn more or collaborate on transformative AI projects.
