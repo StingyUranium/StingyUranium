@@ -16,7 +16,7 @@
 
 Results-driven AI and ML engineer with hands-on experience building LLM-powered agents, RAG systems, voice AI, and IoT pipelines. I take AI solutions from prototype to production — whether that's a real-time interview agent running a local LLM, a fine-tuned legal assistant, or an ESP32-based pothole detector with GPS reporting.
 
-**🏆 First-place winner — National-level AI Ideathon** (CSI Cochin · CIO Kerala Chapter · FCG)
+**First-place winner — National-level AI Ideathon** (CSI Cochin · CIO Kerala Chapter · FCG)
 
 ---
 
@@ -78,17 +78,17 @@ Results-driven AI and ML engineer with hands-on experience building LLM-powered 
 
 ## Certifications
 
-- 📜 **NPTEL** — Fundamentals of Artificial Intelligence (2024)
-- 🤖 **NPTEL** — Advanced Robotics Applications (2025)
-- 👁️ **Udemy** — Computer Vision Bootcamp (PyTorch & TensorFlow)
+- **NPTEL** — Fundamentals of Artificial Intelligence (2024)
+- **NPTEL** — Advanced Robotics Applications (2025)
+- **Udemy** — Computer Vision Bootcamp (PyTorch & TensorFlow)
 
 ---
 
 ## Awards & Activities
 
-- 🏆 **1st Place** — Two-Level AI Ideathon (CSI Cochin, CIO Kerala Chapter, FCG)
-- ⚡ **Participant** — HackSUS Hackathon (IEDC & IIC)
-- 🎭 **Core Member** — Time Management Committee, College Arts Festival (3 years)
+- **1st Place** — Two-Level AI Ideathon (CSI Cochin, CIO Kerala Chapter, FCG)
+- **Participant** — HackSUS Hackathon (IEDC & IIC)
+- **Core Member** — Time Management Committee, College Arts Festival (3 years)
 
 ---
 
