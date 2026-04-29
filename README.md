@@ -39,7 +39,7 @@ Results-driven AI and ML engineer with hands-on experience building LLM-powered 
 | Project | Description | Stack |
 |---|---|---|
 | [**JusTIndia — AI Legal Assistant**](https://github.com/StingyUranium/Legal_chatbot) 🏆 | Fine-tuned LLaMA 3.2 with LoRA on legal datasets for accessible legal guidance | Python · LLaMA 3.2 · LoRA · RAG |
-| [**Real-Time AI Interview Agent**]((https://github.com/StingyUranium/AI_Interview_system)) | LiveKit-based agent with streaming STT/TTS, VAD, and local Gemma 3 via Ollama | Python · LiveKit · Ollama · Gemma 3 |
+| [**Real-Time AI Interview Agent**](https://github.com/StingyUranium/AI_Interview_system) | LiveKit-based agent with streaming STT/TTS, VAD, and local Gemma 3 via Ollama | Python · LiveKit · Ollama · Gemma 3 |
 | [**Voice Sales Agent**](https://github.com/StingyUranium/digital-sales-agent-adk) | Consultative voice agent for digital transformation solutions | Google ADK · Gemini · Python |
 | [**Pothole Detection & GPS Reporting**](https://github.com/StingyUranium/Pothole-Detection) | ESP32 + IMU (LSM6DSOX) real-time detection with GPS sync and ThingSpeak upload | ESP32 · C++ · IMU · ThingSpeak |
 | **AI Email Classification System** | n8n pipeline auto-labeling Gmail with Gemini classification on GCP VM | n8n · Gmail API · Gemini · GCP |
